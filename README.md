@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 A frontend developer and code enthusiast.
 
-- My [Blog](https://chonny-chu.vercel.app/)
-- Ping me by [Email](mailto:mama.whowho@gmail.com)
+[Blog](https://chonny-chu.vercel.app/) | [Email](mailto:mama.whowho@gmail.com)
