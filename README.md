@@ -21,5 +21,5 @@ A frontend developer and code enthusiast.
 
 Lifelong learner. 😻
 
-- Read more about my [Blog](https://chonny-chu.vercel.app/)
+- My [Blog](https://chonny-chu.vercel.app/)
 - Ping me by [Email](mailto:mama.whowho@gmail.com)
