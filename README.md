@@ -19,7 +19,5 @@ Here are some ideas to get you started:
 
 A frontend developer and code enthusiast.
 
-Lifelong learner. 😻
-
 - My [Blog](https://chonny-chu.vercel.app/)
 - Ping me by [Email](mailto:mama.whowho@gmail.com)
