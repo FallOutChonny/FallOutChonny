@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A frontend developer and code enthusiastLifelong learner. 😻
+A frontend developer and code enthusiast.
+
+Lifelong learner. 😻
 
 - Read more about my [Blog](https://chonny-chu.vercel.app/)
 - Ping me by [Email](mailto:mama.whowho@gmail.com)
